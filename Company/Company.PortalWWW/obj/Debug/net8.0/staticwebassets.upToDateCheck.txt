@@ -74,3 +74,9 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\materialize\css\materialize.css
+wwwroot\lib\materialize\css\materialize.min.css
+wwwroot\lib\materialize\js\materialize.js
+wwwroot\lib\materialize\js\materialize.min.js
+wwwroot\lib\materialize\LICENSE
+wwwroot\lib\materialize\README.md
