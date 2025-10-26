@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\PAI\\GIT_PAI_\\Company\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB176BD-0036-D269-15EA-F86E90622887}|Elementy rozwi\u0105zania{8FB176BD-0036-D269-15EA-F86E90622887}|C:\\Users\\ASUS\\Desktop\\PAI\\GIT_PAI_\\Company\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8FB176BD-0036-D269-15EA-F86E90622887}|Elementy rozwi\u0105zania{8FB176BD-0036-D269-15EA-F86E90622887}|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A5BDEC83-3334-41D0-8FCB-D35016117506}|Company.PortalWWW\\Company.PortalWWW.csproj|c:\\users\\asus\\desktop\\pai\\git_pai_\\company\\company.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5BDEC83-3334-41D0-8FCB-D35016117506}|Company.PortalWWW\\Company.PortalWWW.csproj|solutionrelative:company.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,19 +26,27 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TextFile1.txt",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PAI\\GIT_PAI_\\Company\\TextFile1.txt",
-              "RelativeDocumentMoniker": "TextFile1.txt",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PAI\\GIT_PAI_\\Company\\TextFile1.txt",
-              "RelativeToolTip": "TextFile1.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-26T17:28:44.394Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PAI\\GIT_PAI_\\Company\\Company.PortalWWW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Company.PortalWWW\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PAI\\GIT_PAI_\\Company\\Company.PortalWWW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Company.PortalWWW\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T18:47:28.183Z",
               "EditorCaption": ""
             }
           ]

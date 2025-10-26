@@ -59,9 +59,9 @@ C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\st
 C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\Company.PortalWWW.dll
 C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\refint\Company.PortalWWW.dll
 C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\Company.PortalWWW.pdb
 C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\Company.PortalWWW.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\ref\Company.PortalWWW.dll
+C:\Users\ASUS\Desktop\PAI\GIT_PAI_\Company\Company.PortalWWW\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
