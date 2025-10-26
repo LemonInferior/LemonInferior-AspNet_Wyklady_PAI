@@ -1,0 +1,118 @@
+# .gitignore dla rozwi¹zania .NET 8 z projektem Razor Pages
+# Krótkie i kompletne regu³y dla Visual Studio, .NET, narzêdzi webowych i edytorów.
+
+#######################################
+# Visual Studio
+#######################################
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Cache Visual C++
+*.VC.db
+*.VC.opendb
+
+#######################################
+# Build artifacts
+#######################################
+[Bb]in/
+[Oo]bj/
+out/
+artifacts/
+publish/
+*.ilk
+*.meta
+*.obj
+*.pdb
+*.exe
+*.dll
+
+#######################################
+# Rider / JetBrains
+#######################################
+.idea/
+*.sln.iml
+
+#######################################
+# Visual Studio Code
+#######################################
+.vscode/
+.history/
+
+#######################################
+# NuGet / packages
+#######################################
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+#######################################
+# ASP.NET / Razor / static web tooling
+#######################################
+# Pliki tymczasowe publikacji i hosta
+wwwroot/dist/
+wwwroot/.cache/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+
+# pliki wygenerowane przez dotnet watch / HotReload
+.hotreload/
+.hotreload-state
+
+#######################################
+# Local DB, user data, logs
+#######################################
+App_Data/
+*.mdf
+*.ldf
+*.sqlite
+*.db
+*.log
+
+#######################################
+# Secret / configuration local
+#######################################
+# Je¿eli u¿ywasz Secret Manager, nie umieszczaj lokalnych plików konfiguracyjnych w repo
+secrets.json
+appsettings.Development.json
+
+#######################################
+# Test results
+#######################################
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+#######################################
+# Azure / publish / deployment
+#######################################
+.publish/
+.publishsettings
+*.azurePubxml
+__publish/
+
+#######################################
+# Other common IDE/tools
+#######################################
+_ReSharper*/
+*.DotSettings.user
+*.ncrunch*
+*.LocalHistory
+*.log
+.vsconfig
+
+#######################################
+# OS files
+#######################################
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.lnk
